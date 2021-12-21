@@ -21,3 +21,7 @@ for num in my_results:  # And this loop checks for increasing, element by elemen
   if b > a:
     my_counter += 1
 print(my_counter)
+
+
+
+
